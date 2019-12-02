@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amit Saha</string>
+    <string name="name">Name</string>
+    <string name="network_failure">Network not available</string>
+    <string name="right_arrow">Right arrow</string>
+    <string name="description_image">Description image</string>
+    <string name="no_description_image">No description image</string>
+</resources>
